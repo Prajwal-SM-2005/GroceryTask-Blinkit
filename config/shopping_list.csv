@@ -1,0 +1,4 @@
+item_name,requested_quantity,unit,max_unit_price,preferred_brand,package_size
+Milk,2,L,60.00,Amul,1L
+Bread,1,loaf,45.00,Britania,400g
+Yogurt,3,cup,25.00,Epigamia,100g

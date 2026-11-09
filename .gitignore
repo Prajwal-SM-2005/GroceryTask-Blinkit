@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files (contains secrets)
+.env
+.env.local
+.env.*.local
+
+# Output files (generated)
+output/shopping_summary.txt
+output/shopping_summary.json
+output/blinkit_comparison.txt
+output/execution_log.jsonl
+output/screenshots/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
